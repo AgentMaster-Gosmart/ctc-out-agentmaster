@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ctc_agentmaster/static/css/main.d761f2ef.css",
+    "main.js": "/ctc_agentmaster/static/js/main.93286273.js",
+    "index.html": "/ctc_agentmaster/index.html",
+    "main.d761f2ef.css.map": "/ctc_agentmaster/static/css/main.d761f2ef.css.map",
+    "main.93286273.js.map": "/ctc_agentmaster/static/js/main.93286273.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d761f2ef.css",
+    "static/js/main.93286273.js"
+  ]
+}
